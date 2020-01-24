@@ -1,3 +1,6 @@
+//Kimberly Kraemer
+//24 January 2020
+
 package edu.monmouth.kraemer.s1131610.demo2
 
 import android.os.Bundle
